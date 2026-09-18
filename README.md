@@ -1,5 +1,5 @@
 ## WordleBot
-This repository uses R programing to take in the .txt files below specifically "all possible words.txt" and "wordle-answers-alphabetical.txt" and uses them to guess the daily wordle with your feedback.
+This repository uses R programing to take in the .txt files above specifically "all possible words.txt" and "wordle-answers-alphabetical.txt" and uses them to guess the daily wordle with your feedback.
 
 ## How to use
 
